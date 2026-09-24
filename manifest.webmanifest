@@ -1,0 +1,10 @@
+{
+  "name": "BIGTEAM",
+  "short_name": "BIGTEAM",
+  "description": "BIGTEAM — treino, dieta e acompanhamento em um só lugar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0c0e",
+  "theme_color": "#0c0d0f",
+  "icons": []
+}
